@@ -59,5 +59,6 @@ df[0].to_csv ('Nama File.csv')
 ```
 ----------
 
-- [Python](https://python.org)
-- [Google Colab](https://colab.research.google.com)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/)
+
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
