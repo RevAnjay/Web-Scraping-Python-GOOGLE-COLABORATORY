@@ -61,6 +61,8 @@ html = wd.page_source
 ```bash
 df[0].to_csv ('Nama File.csv')
 ```
+
+- Note: Hanya bisa untuk Website Wikipedia
 ----------
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/)
