@@ -8,6 +8,10 @@ Web Scraping adalah salah satu Teknik yang digunakan untuk mengambil data dari s
 
 ## Instalasi Via Google Colab
 ----------
+<img 
+src="https://telegra.ph/file/60bcda32c516cbcda3979.gif" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+
+----------
 - **[1]**
 ```bash
 import pandas as pd
